@@ -1,0 +1,36 @@
+body{
+    background-image: url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{
+    padding-left: 43%;
+    padding-top:0;
+    font-size :50px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left:200px
+}
+table{
+    margin-left:30%;
+    margin-right:50%;
+    padding:15px;
+    width:40%;
+}
+.head{
+    font-size:40px;
+    width:300px
+}
+
+/* table,th,td{
+    border:2px solid #000;
+    text-align:center;
+} */
+th,td{
+    padding-top:10px;
+    font-size: 20px;
+}

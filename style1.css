@@ -1,0 +1,35 @@
+body{
+    background-image: url("download.jfif");
+    background-size: cover;
+}
+
+.container{
+    margin-left:450px;
+    margin-right:450px;
+    margin-top:250px;
+    padding-bottom: 50px;
+    background-color:lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius:50px;
+}
+
+button{
+    border-radius:50px;
+    color:black;
+    background-color:greenyellow;
+}
+
+input{
+    border-radius:50px;
+}
+
+.label{
+    padding-right: 10px;
+    font-size:20px
+}
+.type{
+    padding-left: 10px;
+}
